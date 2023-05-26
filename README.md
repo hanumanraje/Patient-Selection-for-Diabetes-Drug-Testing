@@ -3,26 +3,7 @@
 
 This repo contains a folder for each `lesson` and one `project` folder.
 
-Example
-```
-lesson-1-hello
-lesson-2-world
-lesson-3-foo
-lesson-4-bar
-project
-```
 
-Each `lesson` folder is named using the naming convention of `lesson-#-name-of-lesson`.
-
-Example
-```
-lesson-1-hello
-```
-
-
-### Exercises Folder
-
-Each `lesson` folder contains an `exercises` folder. This `exercises` folder should contain all files and instructions necessary for the exercises along with the solution. The solutions for these exercises will be shared with students. See the `README` in the `exercises` folder for information about folder structure.
 
 ### Project Folder
 
